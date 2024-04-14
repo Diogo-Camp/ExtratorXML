@@ -1,0 +1,365 @@
+<nfeProc versao="4.00"
+    xmlns="http://www.portalfiscal.inf.br/nfe">
+    <NFe xmlns="http://www.portalfiscal.inf.br/nfe">
+        <infNFe versao="4.00" Id="NFe32190602627042000182550010000100191301330511">
+            <ide>
+                <cUF>32</cUF>
+                <cNF>30133051</cNF>
+                <natOp>Venda para nao contribuinte</natOp>
+                <mod>55</mod>
+                <serie>1</serie>
+                <nNF>10019</nNF>
+                <dhEmi>2019-06-07T10:27:02-03:00</dhEmi>
+                <dhSaiEnt>2019-06-07T10:27:07-03:00</dhSaiEnt>
+                <tpNF>1</tpNF>
+                <idDest>2</idDest>
+                <cMunFG>3201209</cMunFG>
+                <tpImp>1</tpImp>
+                <tpEmis>1</tpEmis>
+                <cDV>1</cDV>
+                <tpAmb>1</tpAmb>
+                <finNFe>1</finNFe>
+                <indFinal>1</indFinal>
+                <indPres>1</indPres>
+                <procEmi>0</procEmi>
+                <verProc>Redsis v2.6</verProc>
+            </ide>
+            <emit>
+                <CNPJ>02627042000182</CNPJ>
+                <xNome>MINERACAO GUIDI LTDA - EPP</xNome>
+                <xFant>MINERACAO GUIDI</xFant>
+                <enderEmit>
+                    <xLgr>ROD GUMERCINDO MOURA NUNES,S/N</xLgr>
+                    <nro>0</nro>
+                    <xCpl>KM 09</xCpl>
+                    <xBairro>SOTURNO</xBairro>
+                    <cMun>3201209</cMun>
+                    <xMun>CACHOEIRO DE ITAPEMIRIM</xMun>
+                    <UF>ES</UF>
+                    <CEP>29321000</CEP>
+                    <cPais>1058</cPais>
+                    <xPais>BRASIL</xPais>
+                    <fone>2835241038</fone>
+                </enderEmit>
+                <IE>081982461</IE>
+                <CRT>1</CRT>
+            </emit>
+            <dest>
+                <CNPJ>28983903000159</CNPJ>
+                <xNome>NELIO ASSUNCAO DE CAMPOS EIRELI</xNome>
+                <enderDest>
+                    <xLgr>Q 101 CONJUNTO</xLgr>
+                    <nro>3</nro>
+                    <xCpl>COND ALTO DA BOA VISTA LOTE 37</xCpl>
+                    <xBairro>SOBRADINHO</xBairro>
+                    <cMun>5300108</cMun>
+                    <xMun>BRASILIA</xMun>
+                    <UF>DF</UF>
+                    <CEP>73130900</CEP>
+                    <cPais>1058</cPais>
+                    <xPais>BRASIL</xPais>
+                    <fone>6135520972</fone>
+                </enderDest>
+                <indIEDest>9</indIEDest>
+                <IE>0783285600106</IE>
+                <email>joel@estiloempedras.com.br</email>
+            </dest>
+            <det nItem="1">
+                <prod>
+                    <cProd>434</cProd>
+                    <cEAN />
+                    <xProd>CHAPA DE GRANITO VERDE UBATUBA 1,5 CM POLIDO</xProd>
+                    <NCM>68029390</NCM>
+                    <CFOP>6107</CFOP>
+                    <uCom>M2</uCom>
+                    <qCom>5.694</qCom>
+                    <vUnCom>40.00</vUnCom>
+                    <vProd>227.76</vProd>
+                    <cEANTrib />
+                    <uTrib>M2</uTrib>
+                    <qTrib>5.694</qTrib>
+                    <vUnTrib>40.00</vUnTrib>
+                    <indTot>1</indTot>
+                </prod>
+                <imposto>
+                    <vTotTrib>75.43</vTotTrib>
+                    <ICMS>
+                        <ICMSSN102>
+                            <orig>0</orig>
+                            <CSOSN>102</CSOSN>
+                        </ICMSSN102>
+                    </ICMS>
+                    <IPI>
+                        <CNPJProd>00000000000000</CNPJProd>
+                        <cEnq>999</cEnq>
+                        <IPITrib>
+                            <CST>99</CST>
+                            <vBC>0.00</vBC>
+                            <pIPI>0.00</pIPI>
+                            <vIPI>0.00</vIPI>
+                        </IPITrib>
+                    </IPI>
+                    <PIS>
+                        <PISOutr>
+                            <CST>99</CST>
+                            <vBC>0.00</vBC>
+                            <pPIS>0.00</pPIS>
+                            <vPIS>0.00</vPIS>
+                        </PISOutr>
+                    </PIS>
+                    <COFINS>
+                        <COFINSOutr>
+                            <CST>99</CST>
+                            <vBC>0.00</vBC>
+                            <pCOFINS>0.00</pCOFINS>
+                            <vCOFINS>0.00</vCOFINS>
+                        </COFINSOutr>
+                    </COFINS>
+                    <ICMSUFDest>
+                        <vBCUFDest>0.00</vBCUFDest>
+                        <vBCFCPUFDest>0.00</vBCFCPUFDest>
+                        <pFCPUFDest>0.00</pFCPUFDest>
+                        <pICMSUFDest>18.00</pICMSUFDest>
+                        <pICMSInter>12.00</pICMSInter>
+                        <pICMSInterPart>100.00</pICMSInterPart>
+                        <vFCPUFDest>0.00</vFCPUFDest>
+                        <vICMSUFDest>0.00</vICMSUFDest>
+                        <vICMSUFRemet>0.00</vICMSUFRemet>
+                    </ICMSUFDest>
+                </imposto>
+            </det>
+            <det nItem="2">
+                <prod>
+                    <cProd>1</cProd>
+                    <cEAN>SEM GTIN</cEAN>
+                    <xProd>CHAPA DE GRANITO VERDE UBATUBA 2 CM POLIDO</xProd>
+                    <NCM>68029390</NCM>
+                    <CFOP>6107</CFOP>
+                    <uCom>M2</uCom>
+                    <qCom>28.851</qCom>
+                    <vUnCom>40.00</vUnCom>
+                    <vProd>1154.04</vProd>
+                    <cEANTrib>SEM GTIN</cEANTrib>
+                    <uTrib>M2</uTrib>
+                    <qTrib>28.851</qTrib>
+                    <vUnTrib>40.00</vUnTrib>
+                    <indTot>1</indTot>
+                </prod>
+                <imposto>
+                    <vTotTrib>382.22</vTotTrib>
+                    <ICMS>
+                        <ICMSSN102>
+                            <orig>0</orig>
+                            <CSOSN>102</CSOSN>
+                        </ICMSSN102>
+                    </ICMS>
+                    <IPI>
+                        <CNPJProd>00000000000000</CNPJProd>
+                        <cEnq>999</cEnq>
+                        <IPITrib>
+                            <CST>99</CST>
+                            <vBC>0.00</vBC>
+                            <pIPI>0.00</pIPI>
+                            <vIPI>0.00</vIPI>
+                        </IPITrib>
+                    </IPI>
+                    <PIS>
+                        <PISOutr>
+                            <CST>99</CST>
+                            <vBC>0.00</vBC>
+                            <pPIS>0.00</pPIS>
+                            <vPIS>0.00</vPIS>
+                        </PISOutr>
+                    </PIS>
+                    <COFINS>
+                        <COFINSOutr>
+                            <CST>99</CST>
+                            <vBC>0.00</vBC>
+                            <pCOFINS>0.00</pCOFINS>
+                            <vCOFINS>0.00</vCOFINS>
+                        </COFINSOutr>
+                    </COFINS>
+                    <ICMSUFDest>
+                        <vBCUFDest>0.00</vBCUFDest>
+                        <vBCFCPUFDest>0.00</vBCFCPUFDest>
+                        <pFCPUFDest>0.00</pFCPUFDest>
+                        <pICMSUFDest>18.00</pICMSUFDest>
+                        <pICMSInter>12.00</pICMSInter>
+                        <pICMSInterPart>100.00</pICMSInterPart>
+                        <vFCPUFDest>0.00</vFCPUFDest>
+                        <vICMSUFDest>0.00</vICMSUFDest>
+                        <vICMSUFRemet>0.00</vICMSUFRemet>
+                    </ICMSUFDest>
+                </imposto>
+            </det>
+            <det nItem="3">
+                <prod>
+                    <cProd>1</cProd>
+                    <cEAN>SEM GTIN</cEAN>
+                    <xProd>CHAPA DE GRANITO VERDE UBATUBA 2 CM POLIDO</xProd>
+                    <NCM>68029390</NCM>
+                    <CFOP>6107</CFOP>
+                    <uCom>M2</uCom>
+                    <qCom>252.742</qCom>
+                    <vUnCom>40.00</vUnCom>
+                    <vProd>10109.68</vProd>
+                    <cEANTrib>SEM GTIN</cEANTrib>
+                    <uTrib>M2</uTrib>
+                    <qTrib>252.742</qTrib>
+                    <vUnTrib>40.00</vUnTrib>
+                    <indTot>1</indTot>
+                </prod>
+                <imposto>
+                    <vTotTrib>3348.33</vTotTrib>
+                    <ICMS>
+                        <ICMSSN102>
+                            <orig>0</orig>
+                            <CSOSN>102</CSOSN>
+                        </ICMSSN102>
+                    </ICMS>
+                    <IPI>
+                        <CNPJProd>00000000000000</CNPJProd>
+                        <cEnq>999</cEnq>
+                        <IPITrib>
+                            <CST>99</CST>
+                            <vBC>0.00</vBC>
+                            <pIPI>0.00</pIPI>
+                            <vIPI>0.00</vIPI>
+                        </IPITrib>
+                    </IPI>
+                    <PIS>
+                        <PISOutr>
+                            <CST>99</CST>
+                            <vBC>0.00</vBC>
+                            <pPIS>0.00</pPIS>
+                            <vPIS>0.00</vPIS>
+                        </PISOutr>
+                    </PIS>
+                    <COFINS>
+                        <COFINSOutr>
+                            <CST>99</CST>
+                            <vBC>0.00</vBC>
+                            <pCOFINS>0.00</pCOFINS>
+                            <vCOFINS>0.00</vCOFINS>
+                        </COFINSOutr>
+                    </COFINS>
+                    <ICMSUFDest>
+                        <vBCUFDest>0.00</vBCUFDest>
+                        <vBCFCPUFDest>0.00</vBCFCPUFDest>
+                        <pFCPUFDest>0.00</pFCPUFDest>
+                        <pICMSUFDest>18.00</pICMSUFDest>
+                        <pICMSInter>12.00</pICMSInter>
+                        <pICMSInterPart>100.00</pICMSInterPart>
+                        <vFCPUFDest>0.00</vFCPUFDest>
+                        <vICMSUFDest>0.00</vICMSUFDest>
+                        <vICMSUFRemet>0.00</vICMSUFRemet>
+                    </ICMSUFDest>
+                </imposto>
+            </det>
+            <total>
+                <ICMSTot>
+                    <vBC>0.00</vBC>
+                    <vICMS>0.00</vICMS>
+                    <vICMSDeson>0.00</vICMSDeson>
+                    <vFCP>0.00</vFCP>
+                    <vBCST>0.00</vBCST>
+                    <vST>0.00</vST>
+                    <vFCPST>0.00</vFCPST>
+                    <vFCPSTRet>0.00</vFCPSTRet>
+                    <vProd>11491.48</vProd>
+                    <vFrete>0.00</vFrete>
+                    <vSeg>0.00</vSeg>
+                    <vDesc>0.00</vDesc>
+                    <vII>0.00</vII>
+                    <vIPI>0.00</vIPI>
+                    <vIPIDevol>0.00</vIPIDevol>
+                    <vPIS>0.00</vPIS>
+                    <vCOFINS>0.00</vCOFINS>
+                    <vOutro>0.00</vOutro>
+                    <vNF>11491.48</vNF>
+                    <vTotTrib>3805.98</vTotTrib>
+                </ICMSTot>
+            </total>
+            <transp>
+                <modFrete>1</modFrete>
+                <transporta>
+                    <CPF>07302515786</CPF>
+                    <xNome>RICARDO ALEXANDRE COMARELA ZANDONADE</xNome>
+                    <xEnder>AV LOURENCO ZANDONADE</xEnder>
+                    <xMun>VENDA NOVA DO IMIGRANTE</xMun>
+                    <UF>ES</UF>
+                </transporta>
+                <vol>
+                    <qVol>51</qVol>
+                    <esp>CHAPAS</esp>
+                    <marca>GRANITO</marca>
+                    <nVol>1271/1352</nVol>
+                    <pesoL>14151.810</pesoL>
+                    <pesoB>14151.810</pesoB>
+                </vol>
+            </transp>
+            <cobr>
+                <fat>
+                    <nFat>10019</nFat>
+                    <vOrig>11491.48</vOrig>
+                    <vDesc>0.00</vDesc>
+                    <vLiq>11491.48</vLiq>
+                </fat>
+                <dup>
+                    <nDup>001</nDup>
+                    <dVenc>2019-07-05</dVenc>
+                    <vDup>11491.48</vDup>
+                </dup>
+            </cobr>
+            <pag>
+                <detPag>
+                    <tPag>99</tPag>
+                    <vPag>11491.48</vPag>
+                </detPag>
+            </pag>
+            <infAdic>
+                <infAdFisco>*( MOTORISTA: SERGIO DELARMELINA CPF: 526.910.717-15)* MATERIAL DESTINADO A EMPRESA: STYLO PEDRAS LTDA EPP, CNPJ 26.990.986/0001-88 P/BENEFICIAMENTO E POSTERIOR REMESSA. ICMS S/FRETE SERA DESTACADO NA NF DE REMESSA. PLACAS: OCW9J87 E OYI2C04/ES.</infAdFisco>
+                <infCpl>** DOCUMENTO EMITIDO POR ME OU EPP OPTANTE PELO SIMPLES NACIONAL. NAO GERA DIREITO A CREDITO FISCAL DE IPI. COD.434 = 01 CHAPAS. COD.1 = 05 CHAPAS. COD.1 = 45 CHAPAS. **MATERIAL COM VALOR ESTABELECIDO CONFORME ART.8o DA ORDEM DE SERVICO 248.</infCpl>
+            </infAdic>
+            <infRespTec>
+                <CNPJ>08978752000133</CNPJ>
+                <xContato>Vander Magno Fassarella Messias</xContato>
+                <email>redsis@redsis.com.br</email>
+                <fone>02835211321</fone>
+            </infRespTec>
+        </infNFe>
+        <Signature xmlns="http://www.w3.org/2000/09/xmldsig#">
+            <SignedInfo>
+                <CanonicalizationMethod Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315" />
+                <SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1" />
+                <Reference URI="#NFe32190602627042000182550010000100191301330511">
+                    <Transforms>
+                        <Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" />
+                        <Transform Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315" />
+                    </Transforms>
+                    <DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+                    <DigestValue>u/YnHEM2pKfIuXuZkn1PdiGVFEo=</DigestValue>
+                </Reference>
+            </SignedInfo>
+            <SignatureValue>cKIWR4tIHQOWKGmQMrr3sY7F/VTryN3xbUNtGDJNPE92pnppVfFg+VNwCqKDySypkP5DGx/ymxUOsVP2grp44GDxu3wWQJwao+ccHSSvoxO3azkrx03mEqUruqvpG+w5gcXLwvwtxoFThuRl2CjCZ4v3NQpTIV21RpCSiU45WbgWRvZBLWnfA2ZC4YUEiYO3rn3wtMUUF/cf5yaSTr2nzjqRW/Qc1XnOg9HjLqeiuJgHEaUj9li5yZk5iTPhFTbpRx6GG6eER6MFGaRzhQunSk4bUpuze6JM8j9wb7dwlxtgq/78cc9MDsLDKfd+MHgSb0JYisYkbVnGb2us6AlV+A==</SignatureValue>
+            <KeyInfo>
+                <X509Data>
+                    <X509Certificate>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</X509Certificate>
+                </X509Data>
+            </KeyInfo>
+        </Signature>
+    </NFe>
+    <protNFe versao="4.00"
+        xmlns="http://www.portalfiscal.inf.br/nfe">
+        <infProt>
+            <tpAmb>1</tpAmb>
+            <verAplic>SVRS201905310906</verAplic>
+            <chNFe>32190602627042000182550010000100191301330511</chNFe>
+            <dhRecbto>2019-06-07T10:32:04-03:00</dhRecbto>
+            <nProt>332190028071905</nProt>
+            <digVal>u/YnHEM2pKfIuXuZkn1PdiGVFEo=</digVal>
+            <cStat>100</cStat>
+            <xMotivo>Autorizado o uso da NF-e</xMotivo>
+        </infProt>
+    </protNFe>
+</nfeProc>

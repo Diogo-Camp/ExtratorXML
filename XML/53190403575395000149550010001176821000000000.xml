@@ -1,0 +1,182 @@
+<nfeProc versao="4.00"
+    xmlns="http://www.portalfiscal.inf.br/nfe">
+    <NFe xmlns="http://www.portalfiscal.inf.br/nfe">
+        <infNFe Id="NFe53190403575395000149550010001176821000000000" versao="4.00">
+            <ide>
+                <cUF>53</cUF>
+                <cNF>00000000</cNF>
+                <natOp>Venda</natOp>
+                <mod>55</mod>
+                <serie>1</serie>
+                <nNF>117682</nNF>
+                <dhEmi>2019-04-26T15:14:03-03:00</dhEmi>
+                <dhSaiEnt>2019-04-26T15:14:03-03:00</dhSaiEnt>
+                <tpNF>1</tpNF>
+                <idDest>1</idDest>
+                <cMunFG>5300108</cMunFG>
+                <tpImp>1</tpImp>
+                <tpEmis>1</tpEmis>
+                <cDV>0</cDV>
+                <tpAmb>1</tpAmb>
+                <finNFe>1</finNFe>
+                <indFinal>1</indFinal>
+                <indPres>1</indPres>
+                <procEmi>0</procEmi>
+                <verProc>1</verProc>
+            </ide>
+            <emit>
+                <CNPJ>03575395000149</CNPJ>
+                <xNome>REI DISTRIBUIDORA E ATACAD. MAT. CONSTRUCAO LTDA</xNome>
+                <enderEmit>
+                    <xLgr>Rua 44 lote</xLgr>
+                    <nro>50</nro>
+                    <xCpl>Centro</xCpl>
+                    <xBairro>Sao Sebastiao</xBairro>
+                    <cMun>5300108</cMun>
+                    <xMun>Brasilia</xMun>
+                    <UF>DF</UF>
+                    <CEP>71691234</CEP>
+                    <cPais>1058</cPais>
+                    <xPais>BRASIL</xPais>
+                    <fone>6133351251</fone>
+                </enderEmit>
+                <IE>0740567000102</IE>
+                <IM>0</IM>
+                <CNAE>4744099</CNAE>
+                <CRT>3</CRT>
+            </emit>
+            <dest>
+                <CNPJ>28983903000159</CNPJ>
+                <xNome>NELIO ASSUNSAO DE CAMPOS EMPRESA INDIVIDUAL DE RESP. LTDA</xNome>
+                <enderDest>
+                    <xLgr>Cond. alto da Boa vista QD 101 conj 3 lote</xLgr>
+                    <nro>37</nro>
+                    <xCpl>Rodovia BR-020 km 12</xCpl>
+                    <xBairro>Alto da Boa Vista (Sobradinho)</xBairro>
+                    <cMun>5300108</cMun>
+                    <xMun>Brasilia</xMun>
+                    <UF>DF</UF>
+                    <CEP>73130900</CEP>
+                    <cPais>1058</cPais>
+                    <xPais>BRASIL</xPais>
+                    <fone>61981621614</fone>
+                </enderDest>
+                <indIEDest>9</indIEDest>
+                <IE>0783285600106</IE>
+            </dest>
+            <det nItem="1">
+                <prod>
+                    <cProd>176</cProd>
+                    <cEAN>SEM GTIN</cEAN>
+                    <xProd>CIMENTO CP-II 50KG TODAS OBRAS TOCANTINS</xProd>
+                    <NCM>25232910</NCM>
+                    <CEST>0500100</CEST>
+                    <CFOP>5405</CFOP>
+                    <uCom>sc</uCom>
+                    <qCom>10.0000</qCom>
+                    <vUnCom>19.1480000000</vUnCom>
+                    <vProd>191.48</vProd>
+                    <cEANTrib>SEM GTIN</cEANTrib>
+                    <uTrib>sc</uTrib>
+                    <qTrib>10.0000</qTrib>
+                    <vUnTrib>19.1480000000</vUnTrib>
+                    <indTot>1</indTot>
+                </prod>
+                <imposto>
+                    <vTotTrib>17.71</vTotTrib>
+                    <ICMS>
+                        <ICMS60>
+                            <orig>0</orig>
+                            <CST>60</CST>
+                        </ICMS60>
+                    </ICMS>
+                    <PIS>
+                        <PISAliq>
+                            <CST>01</CST>
+                            <vBC>191.48</vBC>
+                            <pPIS>1.65</pPIS>
+                            <vPIS>3.16</vPIS>
+                        </PISAliq>
+                    </PIS>
+                    <COFINS>
+                        <COFINSAliq>
+                            <CST>01</CST>
+                            <vBC>191.48</vBC>
+                            <pCOFINS>7.60</pCOFINS>
+                            <vCOFINS>14.55</vCOFINS>
+                        </COFINSAliq>
+                    </COFINS>
+                </imposto>
+            </det>
+            <total>
+                <ICMSTot>
+                    <vBC>0.00</vBC>
+                    <vICMS>0.00</vICMS>
+                    <vICMSDeson>0.00</vICMSDeson>
+                    <vFCP>0.00</vFCP>
+                    <vBCST>0.00</vBCST>
+                    <vST>0.00</vST>
+                    <vFCPST>0.00</vFCPST>
+                    <vFCPSTRet>0.00</vFCPSTRet>
+                    <vProd>191.48</vProd>
+                    <vFrete>0.00</vFrete>
+                    <vSeg>0.00</vSeg>
+                    <vDesc>0.00</vDesc>
+                    <vII>0.00</vII>
+                    <vIPI>0.00</vIPI>
+                    <vIPIDevol>0.00</vIPIDevol>
+                    <vPIS>3.16</vPIS>
+                    <vCOFINS>14.55</vCOFINS>
+                    <vOutro>0.00</vOutro>
+                    <vNF>191.48</vNF>
+                    <vTotTrib>17.71</vTotTrib>
+                </ICMSTot>
+            </total>
+            <transp>
+                <modFrete>1</modFrete>
+            </transp>
+            <pag>
+                <detPag>
+                    <tPag>99</tPag>
+                    <vPag>191.48</vPag>
+                </detPag>
+            </pag>
+            <infAdic>
+                <infAdFisco>PROCON DF, Telefone: 151, SCS, Quadra 8, Venacio 2000, Bloco B60, Sala 240.ICMS retido por substituicao tributaria conforme Decreto 33.808 de Agosto 2012.Contribuinte na condicao de Substituto Tributario conf. Art.5 do Decreto n 34.063/2012. Ato Declaratorio n 14/2013.Endereco: Cond. alto da Boa vista QD 101 conj 3 lote, 37, Alto da Boa Vista (Sobradinho) - Brasilia - DF CEP: 73130900</infAdFisco>
+            </infAdic>
+        </infNFe>
+        <Signature xmlns="http://www.w3.org/2000/09/xmldsig#">
+            <SignedInfo>
+                <CanonicalizationMethod Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315" />
+                <SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1" />
+                <Reference URI="#NFe53190403575395000149550010001176821000000000">
+                    <Transforms>
+                        <Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" />
+                        <Transform Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315" />
+                    </Transforms>
+                    <DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+                    <DigestValue>ETjUPG3d8v5ksFHPNIlCLvJ1OLc=</DigestValue>
+                </Reference>
+            </SignedInfo>
+            <SignatureValue>CuyTzRBL3FqkBDwnj2lVc0m6YGgCNzkD04edoleb51TcsQtWpjYE1spbQZ1mfOyn6/bLeHCiT8YyATfZeCqIFMv7ESDcfspXFxQuIywbRFEimRrppGBJvYH1ElmYs1xYbw87/rhS1Z0gaZAyXIwR/22krfRTOLE1U0KiWlkt3QVYqc4lsuWy2O1hFMZsh2KnOgOMmjNhO6LONvB3U8b7fLprE2g6SvzODC7At3IG1GaiKyt3spLcMG1rxj5+WqP+LSn94CGJgz465895z8QArPDMrmEd1ZZ2gt4/e2yHvTz+G01/aUKP8at6MEgmmFRhEhx0CC7w2caLFLtNB8gZqA==</SignatureValue>
+            <KeyInfo>
+                <X509Data>
+                    <X509Certificate>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</X509Certificate>
+                </X509Data>
+            </KeyInfo>
+        </Signature>
+    </NFe>
+    <protNFe versao="4.00"
+        xmlns="http://www.portalfiscal.inf.br/nfe">
+        <infProt>
+            <tpAmb>1</tpAmb>
+            <verAplic>SVRS201807191353</verAplic>
+            <chNFe>53190403575395000149550010001176821000000000</chNFe>
+            <dhRecbto>2019-04-26T15:14:12-03:00</dhRecbto>
+            <nProt>353190017546102</nProt>
+            <digVal>ETjUPG3d8v5ksFHPNIlCLvJ1OLc=</digVal>
+            <cStat>100</cStat>
+            <xMotivo>Autorizado o uso da NF-e</xMotivo>
+        </infProt>
+    </protNFe>
+</nfeProc>
